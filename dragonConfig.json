@@ -5,14 +5,14 @@
 
   "gradientRules": {
     "default": {
-      "shadowBrightness": 5,
-      "highlightBrightness": 95,
-      "highlightSaturation": 5
-    },
+    "darkBrightness": 5,
+    "lightBrightness": 95,
+    "lightSaturation": 5
+  },
     "metal": {
-      "shadowBrightness": 3,
-      "highlightBrightness": 90,
-      "highlightSaturation": 3
+      "darkBrightness": 3,
+    "lightBrightness": 90,
+    "lightSaturation": 3
     }
   },
 
