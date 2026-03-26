@@ -81,6 +81,19 @@
       "number": 5,
       "created": "2026-03-25",
       "active": true
+    },
+    {
+      "colorKey": "red-marsala",
+      "variant": "trans",
+      "color": "#9B3A3A",
+      "style": "default",
+      "colorName": "Marsala Red",
+      "dragonName": "Marsala Dragon",
+      "rarity": 1,
+      "weight": 5,
+      "number": 6,
+      "created": "2026-03-26",
+      "active": true
     }
   ]
 }
