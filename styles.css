@@ -200,6 +200,12 @@ h2 {
   text-align: center;
 }
 
+.pricing-intro {
+  margin: 15px auto 30px;
+  max-width: 600px;
+  opacity: 0.8;
+}
+
 .pricing-grid {
   display: grid;
   gap: 20px;
@@ -243,6 +249,42 @@ h2 {
   color: var(--dragon-color);
 }
 
+.included {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.included ul {
+  list-style: none;
+  padding: 0;
+}
+
+.included li {
+  margin: 6px 0;
+}
+
+.addons {
+  margin-top: 50px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background: #fff;
+  border-radius: 14px;
+  padding: 24px;
+  border: 1px solid rgba(0,0,0,0.05);
+  transition: all 0.2s ease;
+}
+
+.addons ul {
+  list-style: none;
+  padding: 0;
+}
+
+.addons li {
+  margin: 6px 0;
+}
+
 /* 🔥 STEPS (now styled, not plain text) */
 .steps {
   list-style: none;
@@ -262,6 +304,21 @@ h2 {
   left: 0;
   color: var(--dragon-color);
   font-weight: bold;
+}
+
+.contact-email {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.contact-email a {
+  color: var(--dragon-color);
+  text-decoration: none;
+}
+
+.contact-email a:hover {
+  opacity: 0.8;
 }
 
 /* FOOTER */
